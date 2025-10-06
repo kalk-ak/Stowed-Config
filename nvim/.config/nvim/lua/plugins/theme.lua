@@ -1,0 +1,1 @@
+/home/kahl/.config/omarchy/current/theme/neovim.lua

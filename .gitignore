@@ -1,0 +1,3 @@
+*old-config*
+.config/nvim/*json
+.config/nvim/LICENCE
