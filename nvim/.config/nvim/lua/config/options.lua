@@ -19,3 +19,6 @@ vim.opt.spell = true
 vim.opt.spelllang = "en_us" -- Or "en_gb", "de", "fr", etc.
 
 vim.o.scrolloff = 10
+
+-- Have a python  3 host program for plugins that need it like Molten Jupyter notebooks
+vim.g.python3_host_prog = vim.fn.expand("~/anaconda3/envs/ml/bin/python")
