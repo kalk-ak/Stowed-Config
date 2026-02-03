@@ -191,7 +191,7 @@ return {
             latex = {
                 enabled = true,
                 -- Use either utftex or latex2text, whichever is installed first
-                converter = { "pylatexenc", "utftex", "latex2text" },
+                converter = { "utftex" },
                 highlight = "RenderMarkdownMath",
                 position = "center", -- render inline with the block (default)
             },
